@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Godly and wholsome doctrine and necessary for these times being the second part of the homily concerning the Holy Ghost dissolving this doubt wheter all men rightly challenge to themselves the Holy Ghost, or no?</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09324</idno>
+            <idno type="STC">Wing J828A</idno>
+            <idno type="STC">ESTC R179117</idno>
+            <idno type="EEBO-CITATION">62369360</idno>
+            <idno type="OCLC">ocm 62369360</idno>
+            <idno type="VID">187966</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09324)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187966)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2851:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Godly and wholsome doctrine and necessary for these times being the second part of the homily concerning the Holy Ghost dissolving this doubt wheter all men rightly challenge to themselves the Holy Ghost, or no?</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sam Thomason,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holy Spirit --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:187966:1" rendition="simple:additions"/>
+            <head>GODLY and WHOLSOME DOCTRINE, And Neceſſary for theſe Times: BEING The Second Part of the HOMILY concerning THE HOLY GHOST; Diſſolving this DOUBT: <hi>Whether all men rightly Challenge to themſelves the Holy Ghoſt, or no?</hi>
+            </head>
+            <p>OUR Saviour Chriſt departing out of the World unto his Father, promiſed his Diſciples to ſend down <hi>another Comforter,</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 14.15.</note> that ſhould con<g ref="char:EOLhyphen"/>tinue with them for ever, and direct them into all truth, which thing to be faithfully and truly performed, the Scriptures do ſufficiently bear witneſs; neither muſt we think that this Comforter was either promiſed, or elſe given only to the Apoſtles, but alſo to the univerſal Church of Chriſt diſperſed through the whole World. For unleſs the Holy Ghoſt had been alwayes preſent, governing and preſerving the Church from the beginning, it could never have ſuſtained ſo many and great brunts of Affliction and Perſecution, with ſo little damage and harm as it hath: And the words of Chriſt are moſt plain in this behalf, ſaying, <hi>That the Spirit of truth ſhould abide with them for ever,</hi>
+               <note place="margin">
+                  <hi>John</hi> 14. <hi>Matth.</hi> 21.</note> that he <hi>would be with them alwayes,</hi> (he meaneth by Grace, Vertue and Power,) <hi>even to the worlds end.</hi>
+            </p>
+            <p>Alſo in the Prayer that he made to his Father a lit<g ref="char:EOLhyphen"/>tle before his Death, he maketh interceſſion not only for himſelf and his Apoſtles, but indifferently for all them <hi>that ſhould believe in him through their words,</hi>
+               <note place="margin">
+                  <hi>John</hi> 17. <hi>Rom.</hi> 8.</note> that is to wit, for his whole Church. Again, Saint <hi>Paul</hi> ſaith, <hi>If any man have not the Spirit of Chriſt, the ſame is not his:</hi> Alſo in the words following, <hi>We have received the Spirit of Adoption, whereby we cry Abba, Father:</hi> Here<g ref="char:EOLhyphen"/>by then it is evident and plain to all men, that the Ho<g ref="char:EOLhyphen"/>ly Ghoſt was given not only to the Apoſtles, but alſo to the whole body of Chriſts Congregation, although not in like Form and Majeſty as he came down at the feaſt of <hi>Pentecoſt.</hi>
+            </p>
+            <p>But now herein ſtandeth the Controverſie; whether all men do juſtly arrogate to themſelves the Holy Ghoſt, or no? The Biſhops of <hi>Rome</hi> have for a long time made a ſore challenge thereunto, reaſoning for themſelves af<g ref="char:EOLhyphen"/>ter this ſort? The Holy Ghoſt (ſay they) was promi<g ref="char:EOLhyphen"/>ſed to the Church, and never forſaketh the Church: But we are the chief heads and principal part of the Church, therefore we have the Holy Ghoſt for ever, and whatſoever things we decree are undoubted Veri<g ref="char:EOLhyphen"/>ties and Oracles of the Holy Ghoſt.</p>
+            <p>That ye may perceive the weakneſs of this Argument, it is needfull to teach you, firſt what the true Church of Chriſt is, and then to conferre the Church of <hi>Rome</hi> there<g ref="char:EOLhyphen"/>with, to diſcern how well they agree together. The true Church is an univerſal Congregation or Fellowſhip of Gods faithful and elect People,
+<note place="margin">
+                  <hi>Eph.</hi> 2.</note> 
+               <hi>Built upon the foundation of the Apoſtles and Prophets, Jeſus Chriſt himſelf being the chief corner ſtone:</hi> And it hath alwayes three Notes or Marks, whereby it is known; Pure and ſound <hi>Doctrine,</hi> the <hi>Sacraments</hi> miniſtred according to Chriſts holy Inſtitu<g ref="char:EOLhyphen"/>tion, and the right uſe of <hi>Eccleſiaſtical diſcipline.</hi> This deſcription of the Church, is agreeable both to the Scriptures of God, and alſo to the Doctrine of the an<g ref="char:EOLhyphen"/>cient Fathers, ſo that none may juſtly find fault there<g ref="char:EOLhyphen"/>with. Now if ye will compare this with the Church of <hi>Rome,</hi> not as it was in the beginning, but as it is preſently, and hath been for the ſpace of Nine hun<g ref="char:EOLhyphen"/>dred years and odd, you ſhall well perceive the ſtate thereof to be ſo far wide from the nature of the true Church, that nothing can be more. For neither are they built upon the foundation of the Apoſtles and Prophets, retaining the ſound and pure Doctrine of Chriſt Jeſus; neither yet do they order the Sacra<g ref="char:EOLhyphen"/>ments, or elſe the Eccleſiaſtical Keyes, in ſuch ſort as he did firſt inſtitute and ordain them: but have ſo in<g ref="char:EOLhyphen"/>termingled their own Traditions and Inventions, by chopping and changing, by adding and plucking away, that now they may ſeem to be converted into a new guiſe. Chriſt commended to his Church a Sacrament of his Body and Blood: They have changed it into a Sacrifice for the quick and the dead. Chriſt did mini<g ref="char:EOLhyphen"/>ſter to his Apoſtles, and the Apoſtles to other men indif<g ref="char:EOLhyphen"/>ferently under both kinds: They have robbed the Lay-people of the Cup, ſaying, that for them one kind is ſufficient. Chriſt ordained no other Element to be uſed in Baptiſm, but only Water, whereunto when the Word is joyned, it is made (as St. <hi>Auguſtine</hi> ſaith) a full and perfect Sacrament: They being wiſer in their own con<g ref="char:EOLhyphen"/>ceit than Chriſt, think it is not well nor orderly done, unleſs they uſe Conjuration, unleſs they hallow the Wa<g ref="char:EOLhyphen"/>ter, unleſs there be Oyl, Salt, Spittle, Tapers, and ſuch other dumb Ceremonies, ſerving to no uſe, contrary to the plain Rule of St. <hi>Paul,</hi>
+               <note place="margin">1 <hi>Cor.</hi> 14.</note> who willeth <hi>all things to be done in the Church unto Edification.</hi> Chriſt ordained the Authority of the Keys to Excommunicate notorious Sin<g ref="char:EOLhyphen"/>ners, and to abſolve them which are truly Penitent: They abuſe this power at their own pleaſure, as well in curſing the godly with Bell, Book and Candles, as alſo in abſolving the reprobate, which are known to be un<g ref="char:EOLhyphen"/>worthy of any Chriſtian Society; whereof they that liſt to ſee Examples, let them ſearch their Lives. To be ſhort, look what our Saviour Chriſt pronounced of the Scribes and Phariſees in the Goſpel, the ſame may be boldly and with ſafe Conſcience pronounced of the Bi<g ref="char:EOLhyphen"/>ſhops of <hi>Rome;</hi> namely, that they have forſaken, and daily do forſake the Commandments of God, to erect and ſet up their own Conſtitutions. Which thing be<g ref="char:EOLhyphen"/>ing true, as all they which have any light of God's Word muſt needs confeſs, we may well conclude according to the rule of <hi>Auguſtine:</hi> That the Biſhops of <hi>Rome</hi> and their Adherents are not the true Church of Chriſt, much leſs then to be taken as chief Heads and Rulers of the ſame. <hi>Whoſoever</hi> (ſaith he):
+<note place="margin">
+                  <hi>Auguſt.</hi> contra <hi>Pe<g ref="char:EOLhyphen"/>tiliani</hi> Do<g ref="char:EOLhyphen"/>nat. Epi. <hi>cap.</hi> 4.</note> 
+               <hi>do diſſent from the Scriptures concern<g ref="char:EOLhyphen"/>ing the Head, although they be found in all places where the Church is appointed, yet are they not in the Church.</hi> A plain place, concluding directly againſt the Church of <hi>Rome.</hi> Where is now the holy Ghoſt which they ſo ſtoutly do claim to themſelves? Where is now the Spirit of Truth, that will not ſuffer them in any wiſe to err? If it be poſſible to be there where the true Church is not, then is it at <hi>Rome:</hi> Otherwiſe it is but a vain brag, and nothing elſe.</p>
+            <pb n="2" facs="tcp:187966:2"/>
+            <p> Saint <hi>Paul</hi> (as ye have heard before) ſaith; <hi>If any man have not the Spirit of Chriſt, the ſame is not his.</hi> And by turning the words, it may be truly ſaid: <hi>If any man be not of Chriſt, the ſame hath not the Spirit.</hi> Now to diſ<g ref="char:EOLhyphen"/>cern who are truly his, and who not, we have this Rule given us,
+<note place="margin">
+                  <hi>John</hi> 10. <hi>John</hi> 8.</note> 
+               <hi>That his Sheep do alwayes hear his voice.</hi> And St. <hi>John</hi> ſaith, <hi>He that is of God heareth God's Word.</hi> Whereof it followeth, that the Popes not hearing Chriſts voice, as they ought to do, but preferring their own De<g ref="char:EOLhyphen"/>crees before the expreſs Word of God, do plainly ar<g ref="char:EOLhyphen"/>gue to the World, that they are not of Chriſt, nor yet poſſeſſed with his Spirit. But here they will alledge for themſelves, that there are divers neceſſary points not ex<g ref="char:EOLhyphen"/>preſſed in holy Scripture, which were left to the Revela<g ref="char:EOLhyphen"/>tion of the Holy Ghoſt,
+<note place="margin">
+                  <hi>John</hi> 16.</note> who being given to the Church ac<g ref="char:EOLhyphen"/>cording to Chriſts Promiſe, hath taught many things from time to time, which the Apoſtles could not then bear. To this we may eaſily anſwer by the plain words of Chriſt, teaching us that the proper Office of the Holy Ghoſt is not to inſtitute and bring in new Ordinances contrary to his Doctrine before taught; but ſhall come and declare thoſe things which he had before taught; ſo that it might be well and truly underſtood. <hi>When the Holy Ghoſt,</hi> ſaith he, <hi>ſhall come, he ſhall lead you into all truth.</hi> What truth doth he mean? Any other than he himſelf had before expreſ<g ref="char:EOLhyphen"/>ſed in his Word? No; for he ſaith, <hi>He ſhall take of mine, and ſhew unto you.</hi>
+               <note place="margin">
+                  <hi>John</hi> 15.</note> Again, <hi>He ſhall bring you in remem<g ref="char:EOLhyphen"/>brance of all things that I have told you.</hi> It is not then the duty and part of any Chriſtian, under pretence of the Holy Ghoſt, to bring in his own Dreams and Phanta<g ref="char:EOLhyphen"/>ſies into the Church: But he muſt diligently provide that his Doctrine and Decrees be agreeable to Chriſt's holy Teſtament. Otherwiſe in making the Holy Ghoſt the Author thereof, he doth blaſpheme and belye the Holy Ghoſt to his own Condemnation.</p>
+            <p>Now to leave their Doctrine, and come to other points. What ſhall we think or judge of the Pope's intollerable Pride? The Scripture ſaith, That <hi>God reſiſt<g ref="char:EOLhyphen"/>eth the proud, and ſheweth grace to the humble.</hi> Alſo it pronounceth them Bleſſed which are <hi>poor in Spirit,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 5. <hi>Mat</hi> 14.</note> pro<g ref="char:EOLhyphen"/>miſing, that they which humble themſelves ſhall be exal<g ref="char:EOLhyphen"/>ted. And Chriſt our Saviour willeth all his to <hi>learn of him,</hi> becauſe <hi>he is humble and meek.</hi> As for Pride, St. <hi>Gregory</hi> ſaith, it is the Root of all Miſchief. And St. <hi>Au<g ref="char:EOLhyphen"/>guſtin</hi>'s judgment is this; that it maketh men Devils. Can any man then, which either hath or ſhall read the Popes Lives, juſtly ſay, that they had the Holy Ghoſt within them? Firſt, As touching that they will be termed <hi>
+                  <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſal Biſhops,</hi> and <hi>Heads of all Chriſtian Churches</hi> through the World,
+<note place="margin">Lib. 3. E<g ref="char:EOLhyphen"/>piſt. 76.78.</note> we have the judgment of <hi>Gregory</hi> expreſly againſt them, who writing to <hi>Mauritius</hi> the Emperour, Condemneth <hi>John</hi> Biſhop of <hi>Conſtantinople</hi> in that behalf; calling him the <hi>Prince of Pride, Luciſer</hi>'s Succeſſor, and the Fore-runner of Antichriſt.
+<note place="margin">
+                  <hi>Serm.</hi> 3. de Reſur. Dom.</note> St. <hi>Bernard</hi> alſo agreeing thereunto, ſaith; <hi>What greater Pride can there be, than that One man ſhould pre<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er his own judgment before the whole Congregation, as though he only had the Spirit of God?</hi> And <hi>Chryſoſtom</hi> pronounceth a terrible Sentence againſt them, affirming plainly,
+<note place="margin">
+                  <hi>Dialog. lib.</hi> 3.</note> that whoſoever ſeeketh to be chief in Earth, ſhall find Confuſion in Heaven, and that he that ſtriveth for the Supremacy, ſhall not be repu<g ref="char:EOLhyphen"/>ted among the Servants of Chriſt. Again he ſaith: <hi>To deſire a good work,
+<note place="margin">
+                     <hi>Chryſoſt.</hi> ſup. Mat.</note> it is good, but to covet the chief degree of Honour, it is meer vanity.</hi> Do not theſe places ſuffici<g ref="char:EOLhyphen"/>ently convince their outragious Pride, in uſurping to themſelves a Superiority above all other, as well Mini<g ref="char:EOLhyphen"/>ſters and Biſhops, as Kings alſo and Emperours? But as the Lyon is known by his Claws, ſo let us learn to know theſe men by their deeds. What ſhall we ſay of him that made the noble King <hi>Dandalus</hi> to be tied by the neck with a Chain,
+<note place="margin">Sabel. <hi>En<g ref="char:EOLhyphen"/>nead.</hi> 9. <hi>lib.</hi> 7.</note> and to lye flat down before his Table, there to gnaw bones like a Dog? ſhall we think that he had Gods Holy Spirit within him, and not ra<g ref="char:EOLhyphen"/>ther the Spirit of the Devil? Such a Tyrant was Pope <hi>Clement</hi> the Sixth. What ſhall we ſay of him that proud<g ref="char:EOLhyphen"/>ly and contemptuouſly trod <hi>Frederick</hi> the Emperour under his feet, applying the verſe of the Pſalm unto himſelf: <hi>Thou ſhalt go upon the Lyon and the Adder, the young Lyon and the Dragon thou ſhalt tread under thy foot?</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 60.</note> Shall we ſay he had God's Holy Spirit within him, and not rather the Spirit of the Devil? Such a Tyrant was Pope <hi>Alexander</hi> the Third. What ſhall we ſay of him that armed and animated the Son againſt the Father, cauſing him to be taken, and to be cruelly famiſhed to death, contrary to the Law both of God, and alſo of Nature? Shall we ſay that he had God's Holy Spirit within him, and not rather the Spirit of the Devil? Such a Tyrant was Pope <hi>Paſchal</hi> the Second. What ſhall we ſay of him that came into his Popedom like a Fox, that reigned like a Lyon, and dyed like a Dog? Shall we ſay that he had the Holy Spirit of God within him, and not rather the Spirit of the Devil? Such a Tyrant was <hi>Boniface</hi> the Eighth. What ſhall we ſay of him that made <hi>Henry</hi> the Emperour, with his Wife and his young Child, to ſtand at the Gates of the City, in the rough Winter, bare-foot and bare-legged, only cloathed in Linſey-woolſey, eating nothing from morning to night, and that for the ſpace of three days? Shall we ſay that he had God's Holy Spirit within him, and not rather the Spirit of the Devil? Such a Tyrant was Pope <hi>Hil<g ref="char:EOLhyphen"/>debrand,</hi> moſt worthy to be called a <hi>Firebrand,</hi> if we ſhall term him as he hath beſt deſerved. Many other Examples might here be alledged. As of Pope <hi>Joan</hi> the Harlot, that was delivered of a Child in the high ſtreet, going ſolemnly in Proceſſion. Of Pope <hi>Julius</hi> the Se<g ref="char:EOLhyphen"/>cond, that wilfully caſt St. <hi>Peter</hi>'s Keys into the River <hi>Tiber.</hi> Of Pope <hi>
+                  <g ref="char:V">Ʋ</g>rban</hi> the Sixth, that cauſed five Car<g ref="char:EOLhyphen"/>dinals to be put in Sacks, and cruelly drowned. Of Pope <hi>Sergius</hi> the Third, that perſecuted the dead Bo<g ref="char:EOLhyphen"/>dy of <hi>Formoſus</hi> his Predeceſſor, when it had been buried eight years. Of Pope <hi>John</hi> the fourteenth of that name, who having his Enemy delivered into his hands, cauſed him firſt to be ſtripped ſtark naked, his beard to be ſhaven, and to be hanged up a whole day by the hair, then to be ſet upon an Aſs, with his face backward to<g ref="char:EOLhyphen"/>ward the Tail, to be carryed round about the City in deſpite, to be miſerably beaten with Rods, laſt of all to be thruſt out of his Countrey, and to be baniſhed for ever. But to conclude, and make an end, ye ſhall briefly take this ſhort Leſſon; Whereſoever ye find the Spirit of Arrogancy and Pride the Spirit of Envy, Hatred, Contention, Cruelty, Murder, Extortion, Witchcraft, Necromancy, <hi>&amp;c.</hi> aſſure your ſelves that there is the Spirit of the Devil, and not of God, albeit they pretend outwardly to the World never ſo much Holineſs. For as the Goſpel teacheth us, the Spirit of Jeſus is a good Spirit, an holy Spirit, a ſweet Spirit, a lowly Spirit, a merciful Spirit, full of Charity and Love, full of Forgive<g ref="char:EOLhyphen"/>neſs and Pity, not rendring evil for evil, extremity for extremity; but overcoming evil with good, and remit<g ref="char:EOLhyphen"/>ting all Offence, even from the Heart. According to which rule if any man live uprightly, of him it may be ſafely pronounced, that he hath the Holy Ghoſt within him: If not, then it is a plain token that he doth uſurp the name of the Holy Ghoſt in vain.</p>
+            <p>Therefore (dearly beloved) according to the good Counſel of St. <hi>John, Believe not every Spirit,</hi>
+               <note place="margin">1 <hi>Joh.</hi> 4</note> but firſt <hi>try them whether they be of God, or no. Many ſhall come in my name</hi> (ſaith Chriſt) <hi>and ſhall transform themſelves into An<g ref="char:EOLhyphen"/>gels of Light, deceiving (if it be poſſible) the very Elect.</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 24</note> 
+               <hi>They ſhall come unto you in Sheeps Cloathing, being inwardly cruel and ravening Wolves.</hi> They ſhall have an outward ſhew of great holineſs and Innocency of Life, ſo that ye ſhall hardly, or not at all diſcern them. But the rule that ye muſt follow, is this;
+<note place="margin">
+                  <hi>Mat.</hi> 7.</note> to judge them by their fruits. Which, if they be wicked and naught, then is it unpoſſible that the Tree of whom they proceed ſhould be good. Such were all the Popes and Prelates of <hi>Rome</hi> for the moſt part, as doth well appear in the ſtory of their Lives;
+<note place="margin">
+                  <hi>Luk.</hi> 6.</note> and therefore they are worthily accounted among the number of falſe Prophets and falſe Chriſts, which deceived the World a long while.</p>
+            <p>The Lord of Heaven and Earth defend us from their Tyranny and Pride, that they never enter into his Vine<g ref="char:EOLhyphen"/>yard again to the diſturbance of his ſilly poor Flock; but that they may be utterly Confounded and put to Flight in all parts of the World. And he of his great Mercy ſo work in all mens Hearts by the mighty power of the Holy Ghoſt, that the comfortable Goſpel of his Son Chriſt may be truly Preached, truly Received, and tru<g ref="char:EOLhyphen"/>ly Followed in all places, to the beating down of Sin, Death, the Pope, the Devil, and all the Kingdom of Antichriſt; that like ſcattered and diſperſed Sheep, be<g ref="char:EOLhyphen"/>ing at length gathered into one fold, we may in the end reſt all together in the boſom of <hi>Abraham, Iſaac</hi> and <hi>Ja<g ref="char:EOLhyphen"/>cob,</hi> there to be partakers of eternal and everlaſting life, through the merits and death of Jeſus Chriſt our Savi<g ref="char:EOLhyphen"/>our. <hi>Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Sam. Thomaſon.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
